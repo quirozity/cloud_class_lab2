@@ -10,9 +10,11 @@ Set region to canada central
 
 see what happens if you try to use aws clean rooms
 ***********
-# 3. Create new user with IAM
+# 3. Manage Budget and Create new user with IAM
 
-https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html
+Budget:  https://docs.aws.amazon.com/cost-management/latest/userguide/budgets-create.html 
+
+User: https://docs.aws.amazon.com/IAM/latest/UserGuide/id_users_create.html
 ***********
 # 4. Create an EC2
 
@@ -31,3 +33,5 @@ For more information on S3 folllow: https://docs.aws.amazon.com/AmazonS3/latest/
 You can explore all the possibilities of free tier here: https://aws.amazon.com/free/?trk=c8882cbf-4c23-4e67-b098-09697e14ffd9&sc_channel=ps&ef_id=EAIaIQobChMIyu_V8ardgAMVOi-tBh2ZnwtMEAAYASAAEgIg9PD_BwE:G:s&s_kwcid=AL!4422!3!453053794485!p!!g!!aws%20console!10706954804!104359294023&all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=*all&awsf.Free%20Tier%20Categories=*all
 
 Fun way to learn is with https://aws.amazon.com/training/digital/aws-cloud-quest/
+
+To further understand more services aws offers watch: https://www.cnbc.com/2019/07/19/how-amazon-uses-snowmobile-trucks-snowball-devices-for-data-transfer.html
